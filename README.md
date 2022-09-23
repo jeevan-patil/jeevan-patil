@@ -1,9 +1,8 @@
 ### Hi there, I'm Jeevan - [website] 👋
 
 ## I'm a Husband, Father, Developer!
-- 🔭 I’m currently working with Deskera, Singapore.
+- 🔭 I’m currently working with JP Morgan & Chase, Singapore.
 - 🔭 I mainly work on Java, Spring boot, Microservices and more
-- 🥅 2020 Goals: Learn kubernetes and container orchestration
 - ⚡ I like to read
 
 ### Connect with me:
@@ -39,8 +38,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jeevan-patil&show_icons=true&hide_border=true" />
 
 [website]: https://jeevan-patil.github.io/
 [twitter]: https://twitter.com/RealPatil
